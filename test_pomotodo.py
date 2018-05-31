@@ -12,3 +12,8 @@ class TestParse_pomo_activity(TestCase):
         act2 = u"11:12 - 11:43\n#时间管理/工具 'pomotodo·parser'"
         parse_pomo_activity(act2)
         pass
+
+    def test_pomotodo_001(self):
+        act2 = u"11:12 - 11:43\n#时间管理/工具 'pomotodo·parser'"
+        parse_pomo_activity(act2)
+        pass

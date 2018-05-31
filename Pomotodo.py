@@ -22,13 +22,9 @@ def parse_pomo_activity(activity):
         # print "task: " + task
         pass
 
-    print actTime
-    print taskSep.join(actTasks)
-
     for i in range(len(actTasks)):
         dumpTasks = actTasks[:]
 
-        print
         print actTime
         task = u"**" + actTasks[i] + u"**"
         dumpTasks[i] = task
@@ -37,7 +33,6 @@ def parse_pomo_activity(activity):
     pass
 
 def main(argv):
-    print u"\#"
     parse_pomo_activity(act1)
     pass
 

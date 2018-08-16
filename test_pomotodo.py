@@ -14,6 +14,6 @@ class TestParse_pomo_activity(TestCase):
         pass
 
     def test_pomotodo_001(self):
-        act2 = u"11:12 - 11:43\n#时间管理/工具 'pomotodo·parser'"
+        act2 = u"20:47 - 21:12\n#人文/文化/音乐/歌曲 'Young for you'"
         parse_pomo_activity(act2)
         pass

@@ -29,6 +29,7 @@ def parse_pomo_activity(activity):
         task = u"**" + actTasks[i] + u"**"
         dumpTasks[i] = task
         print taskSep.join(dumpTasks)
+        print '---'
 
     pass
 

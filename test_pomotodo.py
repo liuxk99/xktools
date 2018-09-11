@@ -1,4 +1,6 @@
 # coding=utf-8
+import codecs
+import os
 from unittest import TestCase
 
 from Pomotodo import parse_pomo_activity
@@ -14,6 +16,29 @@ class TestParse_pomo_activity(TestCase):
         pass
 
     def test_pomotodo_001(self):
-        act2 = u"20:47 - 21:12\n#人文/文化/音乐/歌曲 'Young for you'"
+        act2 = u"08:19 - 08:44\n#人文/政治 '文昭谈古论今·20180910第436期'"
         parse_pomo_activity(act2)
+        pass
+
+    def test_pomotodo_002(self):
+        # parse a file
+        path = r"C:\Users\thomas\Desktop"
+        src_file = r"2018.09.11.txt"
+
+        f = codecs.open(path + os.path.sep + src_file, 'r', 'utf-8')
+        lines = f.readlines()
+
+        # for line in lines:
+        #     print line
+
+        activities = []
+        pomo_count = len(lines) / 2
+        for i in xrange(pomo_count):
+            idx = 2 * i
+            activity = lines[idx] + lines[idx + 1]
+            activities.append(activity)
+
+        activities.reverse()
+        for activity in activities:
+            parse_pomo_activity(activity)
         pass

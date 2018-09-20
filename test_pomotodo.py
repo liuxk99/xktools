@@ -23,8 +23,8 @@ class TestParse_pomo_activity(TestCase):
 
     def test_pomotodo_002(self):
         # parse a file
-        path = r"C:\Users\thomas\Desktop"
-        src_file = r"2018.09.11.txt"
+        path = r"E:\\"
+        src_file = r"activities.txt"
         dst_file = r"pomo.txt"
 
         f = codecs.open(path + os.path.sep + src_file, 'r', 'utf-8')

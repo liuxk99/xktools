@@ -17,7 +17,7 @@ class TestParse_pomo_activity(TestCase):
         pass
 
     def test_pomotodo_001(self):
-        act2 = u"09:03 - 09:32\n#时间管理 '日·计划' |2018.09.14 + #生活/日常 '天气' |2018.09.14 + #公司<乐视>/管理 '考勤' |2018.09.13 + #公司<乐视>/管理/团队 '招聘·沟通' |2018.09.14"
+        act2 = u"18:34 - 19:38\n#产品(Zero65)/Issue '重量级改变·Screen compatibility'"
         parse_pomo_activity(act2)
         pass
 

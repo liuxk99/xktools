@@ -62,6 +62,8 @@ def activity_to_str(activity):
         dumpTasks[i] = task
         res += taskSep.join(dumpTasks) + line_feed
         res += '---' + line_feed
+        res += u'# 小结：' + line_feed
+        res += line_feed
 
     return res
     pass

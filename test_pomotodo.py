@@ -1,10 +1,8 @@
 # coding=utf-8
-import codecs
 import os
 from unittest import TestCase
 
-import Pomotodo
-from Pomotodo import parse_pomo_activity
+from Pomotodo import parse_pomo_activity, parse_pomotodo_file
 
 
 class TestParse_pomo_activity(TestCase):
@@ -27,24 +25,6 @@ class TestParse_pomo_activity(TestCase):
         src_file = r"activities.txt"
         dst_file = r"pomo.txt"
 
-        f = codecs.open(path + os.path.sep + src_file, 'r', 'utf-8')
-        lines = f.readlines()
-
-        # for line in lines:
-        #     print line
-
-        activities = []
-        pomo_count = len(lines) / 2
-        for i in xrange(pomo_count):
-            idx = 2 * i
-            activity = lines[idx] + lines[idx + 1]
-            activities.append(activity)
-
-        activities.reverse()
-
-        out_file = codecs.open(path + os.path.sep + dst_file, 'w', 'utf-8-sig')
-        for activity in activities:
-            act = Pomotodo.activity_to_str(activity)
-            out_file.write(act)
+        parse_pomotodo_file(path + os.path.sep + src_file, path + os.path.sep + dst_file)
 
         pass

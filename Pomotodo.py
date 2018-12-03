@@ -1,4 +1,5 @@
 # coding=utf-8
+import codecs
 import datetime
 import sys
 
@@ -70,9 +71,32 @@ def activity_to_str(activity):
 
 
 def main(argv):
-    parse_pomo_activity(act1)
+    if len(argv) < 2:
+        print "usage: $activities_file, %dest_file"
+    src_file = argv[0]
+    dst_file = argv[1]
+
+    parse_pomotodo_file(src_file, dst_file)
     pass
 
 
 if __name__ == '__main__':
     main(sys.argv[1:])
+
+
+def parse_pomotodo_file(src_file, dst_file):
+    in_file = codecs.open(src_file, 'r', 'utf-8')
+    lines = in_file.readlines()
+    # for line in lines:
+    #     print line
+    activities = []
+    pomo_count = len(lines) / 2
+    for i in xrange(pomo_count):
+        idx = 2 * i
+        activity = lines[idx] + lines[idx + 1]
+        activities.append(activity)
+    activities.reverse()
+    out_file = codecs.open(dst_file, 'w', 'utf-8-sig')
+    for activity in activities:
+        act = activity_to_str(activity)
+        out_file.write(act)

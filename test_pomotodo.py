@@ -28,3 +28,13 @@ class TestParse_pomo_activity(TestCase):
         parse_pomotodo_file(path + os.path.sep + src_file, path + os.path.sep + dst_file)
 
         pass
+
+    def test_pomotodo_003(self):
+        # parse a file
+        path = r"/home/thomas"
+        src_file = r"activities.txt"
+        dst_file = r"pomo.txt"
+
+        parse_pomotodo_file(path + os.path.sep + src_file, path + os.path.sep + dst_file)
+
+        pass

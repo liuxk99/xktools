@@ -70,21 +70,9 @@ def activity_to_str(activity):
     pass
 
 
-def main(argv):
-    if len(argv) < 2:
-        print "usage: $activities_file, %dest_file"
-    src_file = argv[0]
-    dst_file = argv[1]
-
-    parse_pomotodo_file(src_file, dst_file)
-    pass
-
-
-if __name__ == '__main__':
-    main(sys.argv[1:])
-
-
 def parse_pomotodo_file(src_file, dst_file):
+    print 'parse_pomotodo_file(%s, %s)' % (src_file, dst_file)
+
     in_file = codecs.open(src_file, 'r', 'utf-8')
     lines = in_file.readlines()
     # for line in lines:
@@ -100,3 +88,16 @@ def parse_pomotodo_file(src_file, dst_file):
     for activity in activities:
         act = activity_to_str(activity)
         out_file.write(act)
+
+def main(argv):
+    if len(argv) < 2:
+        print "usage: $activities_file, %dest_file"
+    src_file = argv[0]
+    dst_file = argv[1]
+
+    parse_pomotodo_file(src_file, dst_file)
+    pass
+
+
+if __name__ == '__main__':
+    main(sys.argv[1:])

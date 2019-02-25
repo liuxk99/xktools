@@ -15,7 +15,7 @@ class TestParse_pomo_activity(TestCase):
         pass
 
     def test_pomotodo_001(self):
-        act2 = u"18:34 - 19:38\n#产品(Zero65)/Issue '重量级改变·Screen compatibility'"
+        act2 = u"22:59 - 23:36\n#时间管理 '日·总结' |2019.01.16"
         parse_pomo_activity(act2)
         pass
 
@@ -36,5 +36,4 @@ class TestParse_pomo_activity(TestCase):
         dst_file = r"pomo.txt"
 
         parse_pomotodo_file(path + os.path.sep + src_file, path + os.path.sep + dst_file)
-
         pass

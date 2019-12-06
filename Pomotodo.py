@@ -88,6 +88,10 @@ def parse_pomotodo_file(src_file, dst_file):
         act = activity_to_str(activity)
         out_file.write(act)
 
+    out_file.close()
+    pass
+
+
 def main(argv):
     if len(argv) < 2:
         print "usage: $activities_file, %dest_file"

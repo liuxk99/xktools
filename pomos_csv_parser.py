@@ -17,7 +17,7 @@ def parse_pomos_csv_file(src_file, dst_file):
             if i > 0:
                 from pomo_info import Activity
                 activity = Activity(row[0], row[1], row[2], row[3])
-                print activity.to_markdown()
+                # print activity.to_markdown()
                 out_file.write(activity.to_markdown().decode('utf-8'))
             i = i + 1
     out_file.close()

@@ -7,7 +7,7 @@ import pomos_csv_parser
 def parse_csv_file(download_path, csv_file):
     in_file = download_path + os.sep + csv_file
     if os.path.exists(in_file):
-        pomos_csv_parser.parse_pomo_csv_file(in_file, "trello.md", "note.txt")
+        pomos_csv_parser.parse_pomo_csv_file(in_file, "trello.md", "YNote.md")
     else:
         print "'%s' is not exist!" % in_file
     pass

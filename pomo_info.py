@@ -2,6 +2,8 @@
 
 import dateutil.parser
 
+from trello import trello_dict
+
 
 def get_datetime_from_iso8601(s):
     d = dateutil.parser.parse(s)
@@ -41,4 +43,24 @@ class Activity:
         end_time = end_date.strftime("%H:%M")
 
         return '%s - %s\n%s\n' % (begin_time, end_time, self._description)
+
+    def to_YNoteMarkdown(self):
+        # 转化为有道云笔记Markdown格式.
+        begin_date = get_datetime_from_iso8601(self._begin)
+        end_date = get_datetime_from_iso8601(self._end)
+        begin_time = begin_date.strftime("%H:%M")
+        end_time = end_date.strftime("%H:%M")
+
+        time_str = '<font color=gray>%s - %s</font><br>' % (begin_time, end_time)
+        activity_str_format_1 = '%s<br>'
+        activity_str_format_2 = '[%s](%s)<br>'
+
+        activity_str = activity_str_format_1 % (self._description)
+        for key in trello_dict.keys():
+            if self._description.find(key) >= 0:
+                activity_str = activity_str_format_2 % (self._description, trello_dict[key])
+                break
+
+        return '%s\n%s\n' % (time_str, activity_str)
+
     pass

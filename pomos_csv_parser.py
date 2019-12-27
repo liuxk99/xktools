@@ -21,7 +21,7 @@ def parse_pomo_csv_file(src_file, md_file, note_file):
                 activity = Activity(row[0], row[1], row[2], row[3])
                 # print activity.to_markdown()
                 out_md.write(activity.to_markdown().decode('utf-8'))
-                out_note.write(activity.to_text().decode('utf-8'))
+                out_note.write(activity.to_YNoteMarkdown().decode('utf-8'))
             i = i + 1
     out_md.close()
     out_note.close()

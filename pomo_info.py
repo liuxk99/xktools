@@ -33,4 +33,12 @@ class Activity:
 
         return '%s [%s - %s]\n**\\%s**\n---\n' % (cur_date, begin_time, end_time, self._description)
 
+    def to_text(self):
+        # to text as YouNote spec.
+        begin_date = get_datetime_from_iso8601(self._begin)
+        end_date = get_datetime_from_iso8601(self._end)
+        begin_time = begin_date.strftime("%H:%M")
+        end_time = end_date.strftime("%H:%M")
+
+        return '%s - %s\n%s\n' % (begin_time, end_time, self._description)
     pass

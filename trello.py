@@ -23,4 +23,6 @@ trello_dict = {
     "#金融/服务/银行(招行) '信用卡": "https://trello.com/c/fHAuY8ht",
     "#社交/友 '施王兴": "https://trello.com/c/7Zr1ghMA",
     "#生活/行/车(福特·蒙迪欧) '进京证": "https://trello.com/c/p1JrhG0Y",
+    "#软件/应用 '考勤小助·": "https://trello.com/c/bYbl8TwV",
+    "#财经/理财 '腾讯理财通": "https://trello.com/c/F3UlTT5v",
 }

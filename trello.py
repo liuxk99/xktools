@@ -27,4 +27,5 @@ trello_dict = {
     "#财经/理财 '腾讯理财通": "https://trello.com/c/F3UlTT5v",
     "ADE(Android)/DevEnv 'AS": "https://trello.com/c/E3QwUyp4",
     "项目(TV) '会议·周会": "https://trello.com/c/zCPxwtEo",
+    "生活/乐 '电影": "https://trello.com/c/Sl1sRtiT",
 }

@@ -25,4 +25,6 @@ trello_dict = {
     "#生活/行/车(福特·蒙迪欧) '进京证": "https://trello.com/c/p1JrhG0Y",
     "#软件/应用 '考勤小助·": "https://trello.com/c/bYbl8TwV",
     "#财经/理财 '腾讯理财通": "https://trello.com/c/F3UlTT5v",
+    "ADE(Android)/DevEnv 'AS": "https://trello.com/c/E3QwUyp4",
+    "项目(TV) '会议·周会": "https://trello.com/c/zCPxwtEo",
 }

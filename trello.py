@@ -28,4 +28,5 @@ trello_dict = {
     "ADE(Android)/DevEnv 'AS": "https://trello.com/c/E3QwUyp4",
     "项目(TV) '会议·周会": "https://trello.com/c/zCPxwtEo",
     "生活/乐 '电影": "https://trello.com/c/Sl1sRtiT",
+    "#金融/服务/银行(建设) '信用卡": "https://trello.com/c/nbbmxlyT",
 }

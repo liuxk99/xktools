@@ -29,4 +29,10 @@ trello_dict = {
     "项目(TV) '会议·周会": "https://trello.com/c/zCPxwtEo",
     "生活/乐 '电影": "https://trello.com/c/Sl1sRtiT",
     "#金融/服务/银行(建设) '信用卡": "https://trello.com/c/nbbmxlyT",
+    "#生活/用/IT '无线路由器·实例(艾泰A655W)·": "https://trello.com/c/XA4yWMT2",
+    "生活/用/IT '无线路由器": "https://trello.com/c/bd3v2XXx",
+    "#财经/理财 '医保存折·入账": "https://trello.com/c/srSi79Ys",
+    "#项目(TV)/平台 'T972·": "https://trello.com/c/wwldtCRS",
+    "#Programmer/Lib/Math 'GUID": "https://trello.com/c/pdUnMwUD",
+    "#Programmer/Lib 'utils(utils4j)": "https://trello.com/c/JxVtAvys",
 }

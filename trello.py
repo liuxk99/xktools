@@ -12,7 +12,7 @@ trello_dict = {
     "#ADE(Android)/DTC/BS 'Gradle·plugin'": "https://trello.com/c/MCzn1NMi",
     "#ADE(Android)/DTC/BS 'Gradle·Sync": "https://trello.com/c/tlNQ7ZwL",
     "#时间管理 '休假·": "https://trello.com/c/IwnTjw5z",
-    "#社交/亲/子(刘枢鸿) '作业·": "https://trello.com/c/OP2j3pkV",
+    "#社交/亲/子(刘枢鸿) '作业": "https://trello.com/c/OP2j3pkV",
     "#生活/食 '做饭": "https://trello.com/c/n33fHx8L",
     "#时间管理 '工具": "https://trello.com/c/5uLm7R7g",
     "#产品(EUI)/App '全视频TV桌面": "https://trello.com/c/J4f7LxXs",
@@ -35,4 +35,9 @@ trello_dict = {
     "#项目(TV)/平台 'T972·": "https://trello.com/c/wwldtCRS",
     "#Programmer/Lib/Math 'GUID": "https://trello.com/c/pdUnMwUD",
     "#Programmer/Lib 'utils(utils4j)": "https://trello.com/c/JxVtAvys",
+    "#生活/行/车(比亚迪·秦) '事故": "https://trello.com/c/QI5DPn23",
+    "#生活/用 '宽带<ISP:中国联通>·": "https://trello.com/c/HQtIGKRz",
+    "#社交/亲/子(刘枢鸿) '活动·": "https://trello.com/c/xImA80FW",
+    "#生命/健康 '就诊<医生:王毅>'@刘显珂": "https://trello.com/c/zWt3s7sR",
+    "#软件/应用 'e充电": "https://trello.com/c/kn337Pjp",
 }

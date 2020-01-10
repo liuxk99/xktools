@@ -40,4 +40,9 @@ trello_dict = {
     "#社交/亲/子(刘枢鸿) '活动·": "https://trello.com/c/xImA80FW",
     "#生命/健康 '就诊<医生:王毅>'@刘显珂": "https://trello.com/c/zWt3s7sR",
     "#软件/应用 'e充电": "https://trello.com/c/kn337Pjp",
+    "#生活/用/IT '智能摄像机·": "https://trello.com/c/9G9WBfxh",
+    "#生活/用/IT '智能摄像机(360云台版)·": "https://trello.com/c/rFPkRIYC",
+    "#ADE(Android)/Lib 'View(EditText)·": "https://trello.com/c/gz7PDAQk",
+    "#生命/健康(刘枢鸿) '就诊": "https://trello.com/c/5QaUXoyF",
+    "#财经/金融 '贷款(公积金)": "https://trello.com/c/4jyyYk8U",
 }

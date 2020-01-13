@@ -45,4 +45,6 @@ trello_dict = {
     "#ADE(Android)/Lib 'View(EditText)·": "https://trello.com/c/gz7PDAQk",
     "#生命/健康(刘枢鸿) '就诊": "https://trello.com/c/5QaUXoyF",
     "#财经/金融 '贷款(公积金)": "https://trello.com/c/4jyyYk8U",
+    "#生活/用 '理发'": "https://trello.com/c/09q2WFxA",
+    "#社交/妻 '穆娟·": "https://trello.com/c/t5eX5AFL",
 }

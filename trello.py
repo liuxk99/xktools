@@ -47,4 +47,5 @@ trello_dict = {
     "#财经/金融 '贷款(公积金)": "https://trello.com/c/4jyyYk8U",
     "#生活/用 '理发'": "https://trello.com/c/09q2WFxA",
     "#社交/妻 '穆娟·": "https://trello.com/c/t5eX5AFL",
+    "#生活/行/车(福特·蒙迪欧) '洗车'": "https://trello.com/c/1qr0zuWe",
 }

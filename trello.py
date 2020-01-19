@@ -50,4 +50,6 @@ trello_dict = {
     "#生活/行/车(福特·蒙迪欧) '洗车'": "https://trello.com/c/1qr0zuWe",
     "#财经/理财/收入 '工资<公司:乐融>'": "https://trello.com/c/yIS49N00",
     "#业务管理 '方法(乐融)": "https://trello.com/c/WZbJWhQh",
+    "#理财/收入 '公积金": "https://trello.com/c/oiKIWEsN",
+    "#生活/行 '机场(大兴国际机场)·": "https://trello.com/c/1EHU7CzN",
 }

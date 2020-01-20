@@ -52,4 +52,10 @@ trello_dict = {
     "#业务管理 '方法(乐融)": "https://trello.com/c/WZbJWhQh",
     "#理财/收入 '公积金": "https://trello.com/c/oiKIWEsN",
     "#生活/行 '机场(大兴国际机场)·": "https://trello.com/c/1EHU7CzN",
+    "#生活/行/车(比亚迪·秦) '违法": "https://trello.com/c/emcJftVp",
+    "#SW/Service '交管12123": "https://trello.com/c/uDv0VX9s",
+    "#生活/行/航班 'KN5868": "https://trello.com/c/iFRx83Bp",
+    "#软件/App '个人所得税": "https://trello.com/c/YHWi1qya",
+    "#软件/App '中国移动": "https://trello.com/c/Cwm5SDMs",
+    "#生活/行/车(比亚迪·秦) '顺风车·": "https://trello.com/c/jKI5yq9o",
 }

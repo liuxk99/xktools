@@ -58,4 +58,6 @@ trello_dict = {
     "#软件/App '个人所得税": "https://trello.com/c/YHWi1qya",
     "#软件/App '中国移动": "https://trello.com/c/Cwm5SDMs",
     "#生活/行/车(比亚迪·秦) '顺风车·": "https://trello.com/c/jKI5yq9o",
+    "#ADE(Java)/Lib 'Time·": "https://trello.com/c/2SnPQc8y",
+    "#公司(乐融致新)/管理 '绩效·": "https://trello.com/c/pAamHnfi",
 }

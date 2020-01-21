@@ -60,4 +60,6 @@ trello_dict = {
     "#生活/行/车(比亚迪·秦) '顺风车·": "https://trello.com/c/jKI5yq9o",
     "#ADE(Java)/Lib 'Time·": "https://trello.com/c/2SnPQc8y",
     "#公司(乐融致新)/管理 '绩效·": "https://trello.com/c/pAamHnfi",
+    "#财经/金融/服务/支付宝 '花呗": "https://trello.com/c/1t5h6tPI",
+    "#软件/应用 '极客时间·": "https://trello.com/c/GfT9WrpO",
 }

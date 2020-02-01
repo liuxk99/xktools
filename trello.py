@@ -62,4 +62,6 @@ trello_dict = {
     "#公司(乐融致新)/管理 '绩效·": "https://trello.com/c/pAamHnfi",
     "#财经/金融/服务/支付宝 '花呗": "https://trello.com/c/1t5h6tPI",
     "#软件/应用 '极客时间·": "https://trello.com/c/GfT9WrpO",
+    "#生活/购/超市(福源超市) '购物'": "https://trello.com/c/MGhen72x",
+    "#人文/语言(英语) 'Hello英语·绘本'": "https://trello.com/c/uKkpQauy",
 }

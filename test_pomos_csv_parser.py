@@ -25,7 +25,8 @@ class Test(TestCase):
 
     def test_parse_pomos_csv_file_win(self):
         download_path = r"C:\Users\thomas\Downloads"
-        csv_file = r"Pomos - 2020-01-10 - 2020-01-10.csv"
+        date = r"2020-02-01"
+        csv_file = r"Pomos - %s - %s.csv" % (date, date)
 
         parse_csv_file(download_path, csv_file)
         # self.fail()

@@ -67,4 +67,7 @@ trello_dict = {
     "#SW/Service '度·": "https://trello.com/c/eWENpRpZ",
     "#ADE(Android)/lib 'Calendar·": "https://trello.com/c/Xoa4h8jN",
     "#SW/App 'bilibili·": "https://trello.com/c/UvDAJmq7",
+    "#生命/健康/疾病 '武汉肺炎·": "https://trello.com/c/5JcIFEyF",
+    "#SDE(Android)/AAF 'service(input)·": "https://trello.com/c/8ln2CEwt",
+    "#Programmer/Lib 'Social·分享": "https://trello.com/c/5b95veQv",
 }

@@ -72,4 +72,5 @@ trello_dict = {
     "#Programmer/Lib 'Social·分享": "https://trello.com/c/5b95veQv",
     "#生命/健康 '传染病(SARS)·": "https://trello.com/c/9DWnrHGg",
     "#IT/计算资源/PC 'XancL01·": "https://trello.com/c/NDzdA4M4",
+    "#生活/行/车(福特·蒙迪欧) '保养·": "https://trello.com/c/aaVHjWWy",
 }

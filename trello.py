@@ -70,4 +70,6 @@ trello_dict = {
     "#生命/健康/疾病 '武汉肺炎·": "https://trello.com/c/5JcIFEyF",
     "#SDE(Android)/AAF 'service(input)·": "https://trello.com/c/8ln2CEwt",
     "#Programmer/Lib 'Social·分享": "https://trello.com/c/5b95veQv",
+    "#生命/健康 '传染病(SARS)·": "https://trello.com/c/9DWnrHGg",
+    "#IT/计算资源/PC 'XancL01·": "https://trello.com/c/NDzdA4M4",
 }

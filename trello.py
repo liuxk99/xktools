@@ -74,4 +74,6 @@ trello_dict = {
     "#IT/计算资源/PC 'XancL01·": "https://trello.com/c/NDzdA4M4",
     "#生活/行/车(福特·蒙迪欧) '保养·": "https://trello.com/c/aaVHjWWy",
     "#生活/购/超市(物美) '购物": "https://trello.com/c/r3ahhSSc",
+    "#文化/经典 '增广贤文·": "https://trello.com/c/cf7phz4I",
+    "#公司(乐视)/部门(EUI系统) '会议·": "https://trello.com/c/sOWd80RW",
 }

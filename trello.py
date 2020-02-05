@@ -76,4 +76,5 @@ trello_dict = {
     "#生活/购/超市(物美) '购物": "https://trello.com/c/r3ahhSSc",
     "#文化/经典 '增广贤文·": "https://trello.com/c/cf7phz4I",
     "#公司(乐视)/部门(EUI系统) '会议·": "https://trello.com/c/sOWd80RW",
+    "#SDE(Android)/DevEnv 'AML972·": "https://trello.com/c/Qe5tiBq1",
 }

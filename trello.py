@@ -77,4 +77,10 @@ trello_dict = {
     "#文化/经典 '增广贤文·": "https://trello.com/c/cf7phz4I",
     "#公司(乐视)/部门(EUI系统) '会议·": "https://trello.com/c/sOWd80RW",
     "#SDE(Android)/DevEnv 'AML972·": "https://trello.com/c/Qe5tiBq1",
+    "#SW/OS/Unix/cmds 'apt-get·": "https://trello.com/c/nJQvlucU",
+    "#SW/Service/AWS 'EC2·": "https://trello.com/c/aFp8NVyS",
+    "#财经/理财 '养老金·查询'@刘先付": "https://trello.com/c/D3X3UjJV",
+    "#SW/Service '邮政储蓄银行·": "https://trello.com/c/Iphv3CGn",
+    "#财经 '理财'@刘显珂": "https://trello.com/c/awCYMG0h",
+    "#财经 '理财'@刘先付": "https://trello.com/c/IeElwCXa",
 }

@@ -83,4 +83,8 @@ trello_dict = {
     "#SW/Service '邮政储蓄银行·": "https://trello.com/c/Iphv3CGn",
     "#财经 '理财'@刘显珂": "https://trello.com/c/awCYMG0h",
     "#财经 '理财'@刘先付": "https://trello.com/c/IeElwCXa",
+    "#预测 '占卜·": "https://trello.com/c/htzmnSEq",
+    "#生活/用 '天然气·": "https://trello.com/c/RC6jDcv8",
+    "#公司(乐融)/团队(FW) '组织·": "https://trello.com/c/4dL7tdHu",
+    "#SW/OS/Unix/cmds 'split·": "https://trello.com/c/aVjuLNUF",
 }

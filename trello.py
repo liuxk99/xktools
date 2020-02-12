@@ -90,4 +90,6 @@ trello_dict = {
     "#ADE(Java)/DTC 'keytool·": "https://trello.com/c/OWt1i5Lz",
     "#SW/OS 'Ubuntu(16.04 LTS)·": "https://trello.com/c/QSD82C54",
     "#ADE(Android)/DevEnv 'Ubuntu·": "https://trello.com/c/xq8aioph",
+    "#生活/乐 '红包<年:庚子>·": "https://trello.com/c/eT4EzeKF",
+    "#财经/理财/收入 '工资<公司:乐融>·": "https://trello.com/c/yIS49N00",
 }

@@ -63,7 +63,7 @@ trello_dict = {
     "#财经/金融/服务/支付宝 '花呗": "https://trello.com/c/1t5h6tPI",
     "#软件/应用 '极客时间·": "https://trello.com/c/GfT9WrpO",
     "#生活/购/超市(福源超市) '购物'": "https://trello.com/c/MGhen72x",
-    "#人文/语言(英语) 'Hello英语·绘本'": "https://trello.com/c/uKkpQauy",
+    "#人文/语言(英语) 'Hello英语·": "https://trello.com/c/uKkpQauy",
     "#SW/Service '度·": "https://trello.com/c/eWENpRpZ",
     "#ADE(Android)/lib 'Calendar·": "https://trello.com/c/Xoa4h8jN",
     "#SW/App 'bilibili·": "https://trello.com/c/UvDAJmq7",
@@ -87,4 +87,5 @@ trello_dict = {
     "#生活/用 '天然气·": "https://trello.com/c/RC6jDcv8",
     "#公司(乐融)/团队(FW) '组织·": "https://trello.com/c/4dL7tdHu",
     "#SW/OS/Unix/cmds 'split·": "https://trello.com/c/aVjuLNUF",
+    "#ADE(Java)/DTC 'keytool·": "https://trello.com/c/OWt1i5Lz",
 }

@@ -16,7 +16,8 @@ def parse_csv_file(download_path, csv_file):
 class Test(TestCase):
     def test_parse_pomos_csv_file_unix(self):
         download_path = "/home/thomas/Downloads"
-        csv_file = "Pomos - 2020-01-20 - 2020-01-20.csv"
+        date = r"2020-02-11"
+        csv_file = r"Pomos - %s - %s.csv" % (date, date)
 
         parse_csv_file(download_path, csv_file)
         # self.fail()

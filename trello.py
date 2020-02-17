@@ -92,4 +92,6 @@ trello_dict = {
     "#ADE(Android)/DevEnv 'Ubuntu·": "https://trello.com/c/xq8aioph",
     "#生活/乐 '红包<年:庚子>·": "https://trello.com/c/eT4EzeKF",
     "#财经/理财/收入 '工资<公司:乐融>·": "https://trello.com/c/yIS49N00",
+    "#生命/健康 '传染病(武汉肺炎)·": "https://trello.com/c/5JcIFEyF",
+    "#SDE(Android)/DevEnv 'AmlT972·": "https://trello.com/c/Qe5tiBq1",
 }

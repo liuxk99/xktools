@@ -94,4 +94,5 @@ trello_dict = {
     "#财经/理财/收入 '工资<公司:乐融>·": "https://trello.com/c/yIS49N00",
     "#生命/健康 '传染病(武汉肺炎)·": "https://trello.com/c/5JcIFEyF",
     "#SDE(Android)/DevEnv 'AmlT972·": "https://trello.com/c/Qe5tiBq1",
+    "#SW/OS/Unix/cmds 'curl·": "https://trello.com/c/NmiQ6noZ",
 }

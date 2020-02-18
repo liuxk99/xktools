@@ -97,4 +97,5 @@ trello_dict = {
     "#SW/OS/Unix/cmds 'curl·": "https://trello.com/c/NmiQ6noZ",
     "#公司(乐融)/团队(FW) '业务·": "https://trello.com/c/CEkcZKMG",
     "#IT/blog 'pages(github)·": "https://trello.com/c/PFGM0FMk",
+    "#生活/行/车/(比亚迪·秦) '保养'": "https://trello.com/c/S6yL0b81"
 }

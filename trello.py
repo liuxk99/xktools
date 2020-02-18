@@ -95,4 +95,6 @@ trello_dict = {
     "#生命/健康 '传染病(武汉肺炎)·": "https://trello.com/c/5JcIFEyF",
     "#SDE(Android)/DevEnv 'AmlT972·": "https://trello.com/c/Qe5tiBq1",
     "#SW/OS/Unix/cmds 'curl·": "https://trello.com/c/NmiQ6noZ",
+    "#公司(乐融)/团队(FW) '业务·": "https://trello.com/c/CEkcZKMG",
+    "#IT/blog 'pages(github)·": "https://trello.com/c/PFGM0FMk",
 }

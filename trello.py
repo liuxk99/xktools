@@ -101,4 +101,6 @@ trello_dict = {
     "#公司(乐视)/部门(EUI系统) '会议": "https://trello.com/c/sOWd80RW",
     "#ADE(Android)/DTC/BS 'Gradle·": "https://trello.com/c/tlNQ7ZwL",
     "#Programmer/DTC/CM 'repo·": "https://trello.com/c/hdeCaiXE",
+    "#SDE(Android)/EUI '移植·": "https://trello.com/c/yUy6urf0",
+    "#SDE(Android)/DTC 'Build(soong)·": "https://trello.com/c/U3L8yWpP",
 }

@@ -103,4 +103,5 @@ trello_dict = {
     "#Programmer/DTC/CM 'repo·": "https://trello.com/c/hdeCaiXE",
     "#SDE(Android)/EUI '移植·": "https://trello.com/c/yUy6urf0",
     "#SDE(Android)/DTC 'Build(soong)·": "https://trello.com/c/U3L8yWpP",
+    "#生活/用 '话费·充值'@刘显珂": "https://trello.com/c/7J7oi3Up",
 }

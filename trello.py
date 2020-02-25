@@ -104,4 +104,9 @@ trello_dict = {
     "#SDE(Android)/EUI '移植·": "https://trello.com/c/yUy6urf0",
     "#SDE(Android)/DTC 'Build(soong)·": "https://trello.com/c/U3L8yWpP",
     "#生活/用 '话费·充值'@刘显珂": "https://trello.com/c/7J7oi3Up",
+    "#生命/健康 '器具(口罩)·": "https://trello.com/c/mIj8ZPUb",
+    "#公司(乐融)/办公 '工位·": "https://trello.com/c/GxcvISOf",
+    "#社会/服务 '公积金·": "https://trello.com/c/IQjsmpnC",
+    "#SDE(Android)/DevEnv 'AOSP(Android-9)": "https://trello.com/c/iujXZH6y",
+    "#SW/Network 'VPN(Lantern)·": "https://trello.com/c/lTRaNhBO",
 }

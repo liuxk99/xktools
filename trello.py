@@ -109,4 +109,6 @@ trello_dict = {
     "#社会/服务 '公积金·": "https://trello.com/c/IQjsmpnC",
     "#SDE(Android)/DevEnv 'AOSP(Android-9)": "https://trello.com/c/iujXZH6y",
     "#SW/Network 'VPN(Lantern)·": "https://trello.com/c/lTRaNhBO",
+    "#Product(Android) 'AOSP(Storage)·": "https://trello.com/c/G5PFwKU3",
+    "#SW/Network 'Connection·": "https://trello.com/c/A7xkkgpR",
 }

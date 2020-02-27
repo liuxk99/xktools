@@ -110,5 +110,7 @@ trello_dict = {
     "#SDE(Android)/DevEnv 'AOSP(Android-9)": "https://trello.com/c/iujXZH6y",
     "#SW/Network 'VPN(Lantern)·": "https://trello.com/c/lTRaNhBO",
     "#Product(Android) 'AOSP(Storage)·": "https://trello.com/c/G5PFwKU3",
-    "#SW/Network 'Connection·": "https://trello.com/c/A7xkkgpR",
+    "#SW/Network 'Connection": "https://trello.com/c/A7xkkgpR",
+    "#ADE(Android)/DTC/BS 'Gradle(plugin)": "https://trello.com/c/MCzn1NMi",
+    "#ADE(Android)/DTC/IDE '[Android Studio]": "https://trello.com/c/y1qsy25A",
 }

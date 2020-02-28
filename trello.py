@@ -113,4 +113,6 @@ trello_dict = {
     "#SW/Network 'Connection": "https://trello.com/c/A7xkkgpR",
     "#ADE(Android)/DTC/BS 'Gradle(plugin)": "https://trello.com/c/MCzn1NMi",
     "#ADE(Android)/DTC/IDE '[Android Studio]": "https://trello.com/c/y1qsy25A",
+    "#产品/应用 '微信·": "https://trello.com/c/evxBdaDC",
+    "#产品(EUI)/App '电视管家·": "https://trello.com/c/3Vt7jZxR",
 }

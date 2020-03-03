@@ -115,4 +115,11 @@ trello_dict = {
     "#ADE(Android)/DTC/IDE '[Android Studio]": "https://trello.com/c/y1qsy25A",
     "#产品/应用 '微信·": "https://trello.com/c/evxBdaDC",
     "#产品(EUI)/App '电视管家·": "https://trello.com/c/3Vt7jZxR",
+    "#生命/医/器械 '体温计(水银温度计)·": "https://trello.com/c/f1BoBQov",
+    "#软件/应用 '叮当快药·": "https://trello.com/c/fOiOQq0t",
+    "#SW/Network 'BitTorrent·": "https://trello.com/c/cg6lKGw2",
+    "#软件/工具 '驱动(驱动精灵)·": "https://trello.com/c/olmgLneH",
+    "#公司(乐视)/IT '密码·": "https://trello.com/c/LKX1YL9o",
+    "#公司/团队(EUI·FW) '周报": "https://trello.com/c/AbzEYABA",
+    "#生活/乐 '电视剧(琅琊榜之风起长林)·": "https://trello.com/c/gMwIXLJp",
 }

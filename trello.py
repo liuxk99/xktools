@@ -122,4 +122,6 @@ trello_dict = {
     "#公司(乐视)/IT '密码·": "https://trello.com/c/LKX1YL9o",
     "#公司/团队(EUI·FW) '周报": "https://trello.com/c/AbzEYABA",
     "#生活/乐 '电视剧(琅琊榜之风起长林)·": "https://trello.com/c/gMwIXLJp",
+    "#SDE(Android)/DTC 'aapt2·": "https://trello.com/c/WXtkGkeu",
+    "#公司(乐融)/组织 'CTO·": "https://trello.com/c/OCkdpca4",
 }

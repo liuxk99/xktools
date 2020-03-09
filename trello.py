@@ -124,4 +124,8 @@ trello_dict = {
     "#生活/乐 '电视剧(琅琊榜之风起长林)·": "https://trello.com/c/gMwIXLJp",
     "#SDE(Android)/DTC 'aapt2·": "https://trello.com/c/WXtkGkeu",
     "#公司(乐融)/组织 'CTO·": "https://trello.com/c/OCkdpca4",
+    "#财经 '理财(余额宝)·": "https://trello.com/c/EKV1VV0i",
+    "#Product(Android)/app 'framework-res": "https://trello.com/c/1gbIKNhR",
+    "#产品(EUI) 'eui-framework·": "https://trello.com/c/SK04miCI",
+    "#生命/健康 '疫情(新冠肺炎)·": "https://trello.com/c/5JcIFEyF",
 }

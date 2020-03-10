@@ -128,4 +128,8 @@ trello_dict = {
     "#Product(Android)/app 'framework-res": "https://trello.com/c/1gbIKNhR",
     "#产品(EUI) 'eui-framework·": "https://trello.com/c/SK04miCI",
     "#生命/健康 '疫情(新冠肺炎)·": "https://trello.com/c/5JcIFEyF",
+    "#公司(乐融)/管理 '休假·": "https://trello.com/c/IwnTjw5z",
+    "#生活/用 '话费·充值'@刘先付": "https://trello.com/c/9IsLShpz",
+    "#Product(Android)/app 'eui-framework-res·": "https://trello.com/c/VYuLmYNU",
+    "#SDE(Android)/AAF 'framework·": "https://trello.com/c/LyRSsUm1",
 }

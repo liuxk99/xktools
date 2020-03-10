@@ -132,4 +132,6 @@ trello_dict = {
     "#生活/用 '话费·充值'@刘先付": "https://trello.com/c/9IsLShpz",
     "#Product(Android)/app 'eui-framework-res·": "https://trello.com/c/VYuLmYNU",
     "#SDE(Android)/AAF 'framework·": "https://trello.com/c/LyRSsUm1",
+    "#SDE(Android)/AAF 'framework-letv·": "https://trello.com/c/QHxG4sJm",
+    "#Product(Android)/Component 'PRODUCT_BOOT_JARS·": "https://trello.com/c/E2bRfSuH",
 }

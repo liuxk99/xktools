@@ -134,4 +134,6 @@ trello_dict = {
     "#SDE(Android)/AAF 'framework·": "https://trello.com/c/LyRSsUm1",
     "#SDE(Android)/AAF 'framework-letv·": "https://trello.com/c/QHxG4sJm",
     "#Product(Android)/Component 'PRODUCT_BOOT_JARS·": "https://trello.com/c/E2bRfSuH",
+    "#产品(EUI)/特性/性能 '内存·": "https://trello.com/c/CKePjKrH",
+    "#产品(EUI)/规划 '实例(CVTE)·": "https://trello.com/c/CKePjKrH",
 }

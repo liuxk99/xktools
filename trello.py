@@ -137,4 +137,6 @@ trello_dict = {
     "#产品(EUI)/特性/性能 '内存·": "https://trello.com/c/CKePjKrH",
     "#产品(EUI)/规划 '实例(CVTE)·": "https://trello.com/c/CKePjKrH",
     "#产品(EUI) 'Arch·": "https://trello.com/c/x0izUJVq",
+    "#Product/Plan 'ComponentsPlay": "https://trello.com/c/D2qwndkK",
+    "#产品(EUI) '规划·": "https://trello.com/c/Ao3HXU4O",
 }

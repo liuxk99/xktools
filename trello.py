@@ -140,4 +140,7 @@ trello_dict = {
     "#Product/Plan 'ComponentsPlay": "https://trello.com/c/D2qwndkK",
     "#产品(EUI) '规划·": "https://trello.com/c/Ao3HXU4O",
     "#产品/方法 '形态(超级App)·": "https://trello.com/c/4iGbuWwi",
+    "#生活/用/通信 '电信运营商(中国移动)·": "https://trello.com/c/voV13U2b",
+    "#生活/用/平板电脑 '[iPad mini 4]·": "https://trello.com/c/2V31Nlki",
+    "#IT/blog 'pages(github)": "https://trello.com/c/PFGM0FMk",
 }

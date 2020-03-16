@@ -143,4 +143,5 @@ trello_dict = {
     "#生活/用/通信 '电信运营商(中国移动)·": "https://trello.com/c/voV13U2b",
     "#生活/用/平板电脑 '[iPad mini 4]·": "https://trello.com/c/2V31Nlki",
     "#IT/blog 'pages(github)": "https://trello.com/c/PFGM0FMk",
+    "#生活/住/装修 '壁纸·": "https://trello.com/c/kPQx77RA",
 }

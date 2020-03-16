@@ -139,4 +139,5 @@ trello_dict = {
     "#产品(EUI) 'Arch·": "https://trello.com/c/x0izUJVq",
     "#Product/Plan 'ComponentsPlay": "https://trello.com/c/D2qwndkK",
     "#产品(EUI) '规划·": "https://trello.com/c/Ao3HXU4O",
+    "#产品/方法 '形态(超级App)·": "https://trello.com/c/4iGbuWwi",
 }

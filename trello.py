@@ -144,4 +144,5 @@ trello_dict = {
     "#生活/用/平板电脑 '[iPad mini 4]·": "https://trello.com/c/2V31Nlki",
     "#IT/blog 'pages(github)": "https://trello.com/c/PFGM0FMk",
     "#生活/住/装修 '壁纸·": "https://trello.com/c/kPQx77RA",
+    "#时间管理/工具 'Trello·": "https://trello.com/c/na3XpnZf",
 }

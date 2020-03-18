@@ -145,4 +145,7 @@ trello_dict = {
     "#IT/blog 'pages(github)": "https://trello.com/c/PFGM0FMk",
     "#生活/住/装修 '壁纸·": "https://trello.com/c/kPQx77RA",
     "#时间管理/工具 'Trello·": "https://trello.com/c/na3XpnZf",
+    "#SDE(Android)/特性/性能 '内存·": "https://trello.com/c/kI6Apnq3",
+    "#财经/理财 '余额宝·": "https://trello.com/c/EKV1VV0i",
+    "#社会/证照 '生育服务登记·": "https://trello.com/c/RF7bNhcU",
 }

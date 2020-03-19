@@ -148,4 +148,12 @@ trello_dict = {
     "#SDE(Android)/特性/性能 '内存·": "https://trello.com/c/kI6Apnq3",
     "#财经/理财 '余额宝·": "https://trello.com/c/EKV1VV0i",
     "#社会/证照 '生育服务登记·": "https://trello.com/c/RF7bNhcU",
+    # 节点格式
+    "#社会/证照 '生育服务登记'": "https://trello.com/c/RF7bNhcU",
+    "#时间管理 '日'": "https://trello.com/c/RIRS417M",
+    "#金融/服务/银行(招商) '信用卡'": "https://trello.com/c/fHAuY8ht",
+    "#ADE(Android)/UI 'View(RecyclerView)'": "https://trello.com/c/Fxj9UmPT",
+    "#SW/Service '度'": "https://trello.com/c/eWENpRpZ",
+    "#生活/行/车(比亚迪·秦) '充电'": "https://trello.com/c/JotLTWjl",
+    "#ADE(Android)/Lib 'Jetpack·Sample(sunflower)'": "https://trello.com/c/LqVSft4g",
 }

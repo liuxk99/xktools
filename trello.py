@@ -156,4 +156,6 @@ trello_dict = {
     "#SW/Service '度'": "https://trello.com/c/eWENpRpZ",
     "#生活/行/车(比亚迪·秦) '充电'": "https://trello.com/c/JotLTWjl",
     "#ADE(Android)/Lib 'Jetpack·Sample(sunflower)'": "https://trello.com/c/LqVSft4g",
+    "#SDE(Android)/EUI '移植<平台:t972>'": "https://trello.com/c/KN51YIHP",
+    "#生命/健康 '锻炼'": "https://trello.com/c/T3DBFGe8",
 }

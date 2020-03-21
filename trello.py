@@ -158,4 +158,6 @@ trello_dict = {
     "#ADE(Android)/Lib 'Jetpack·Sample(sunflower)'": "https://trello.com/c/LqVSft4g",
     "#SDE(Android)/EUI '移植<平台:t972>'": "https://trello.com/c/KN51YIHP",
     "#生命/健康 '锻炼'": "https://trello.com/c/T3DBFGe8",
+    "#人文/语言(英语) 'Hello英语'": "https://trello.com/c/uKkpQauy",
+    "#社交/亲/子(刘枢鸿) '活动'": "https://trello.com/c/xImA80FW",
 }

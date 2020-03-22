@@ -160,4 +160,6 @@ trello_dict = {
     "#生命/健康 '锻炼'": "https://trello.com/c/T3DBFGe8",
     "#人文/语言(英语) 'Hello英语'": "https://trello.com/c/uKkpQauy",
     "#社交/亲/子(刘枢鸿) '活动'": "https://trello.com/c/xImA80FW",
+    "#软件/安全 '火绒'·": "https://trello.com/c/Cw5EQD9q",
+    "#项目(TV)/平台 'm920'": "https://trello.com/c/FmOuaZ3w",
 }

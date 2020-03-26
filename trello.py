@@ -164,5 +164,7 @@ trello_dict = {
     "#项目(TV)/平台 'm920'": "https://trello.com/c/FmOuaZ3w",
     "#产品(Amlogic)/App 'LiveTv'": "https://trello.com/c/50XSnfGV",
     "#产品(Amlogic)/Lib 'Tv-Common'": "https://trello.com/c/JSxJDAML",
+    "#产品(Amlogic)/Lib 'tv-common'": "https://trello.com/c/JSxJDAML",
     "#Programmer/PLang 'Bash·formatter'": "https://trello.com/c/zmjIVqNm",
+    "#产品(Amlogic)/Lib 'live-tv-tuner'": "https://trello.com/c/fKlER50b",
 }

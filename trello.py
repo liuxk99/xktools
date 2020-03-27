@@ -167,4 +167,6 @@ trello_dict = {
     "#产品(Amlogic)/Lib 'tv-common'": "https://trello.com/c/JSxJDAML",
     "#Programmer/PLang 'Bash·formatter'": "https://trello.com/c/zmjIVqNm",
     "#产品(Amlogic)/Lib 'live-tv-tuner'": "https://trello.com/c/fKlER50b",
+    "#SDE(Android)/DTC 'Build'": "https://trello.com/c/KWRIsNIo",
+    "#产品(EUI)/App 'PackageInstaller'": "https://trello.com/c/p6H00XmA",
 }

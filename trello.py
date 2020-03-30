@@ -169,4 +169,6 @@ trello_dict = {
     "#产品(Amlogic)/Lib 'live-tv-tuner'": "https://trello.com/c/fKlER50b",
     "#SDE(Android)/DTC 'Build'": "https://trello.com/c/KWRIsNIo",
     "#产品(EUI)/App 'PackageInstaller'": "https://trello.com/c/p6H00XmA",
+    "#生活/行/车 '配件(搭火线)'": "https://trello.com/c/BuGItVFC",
+    "#产品/耳机 'AirPods Pro'": "https://trello.com/c/JMyVLfep"
 }

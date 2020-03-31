@@ -170,5 +170,8 @@ trello_dict = {
     "#SDE(Android)/DTC 'Build'": "https://trello.com/c/KWRIsNIo",
     "#产品(EUI)/App 'PackageInstaller'": "https://trello.com/c/p6H00XmA",
     "#生活/行/车 '配件(搭火线)'": "https://trello.com/c/BuGItVFC",
-    "#产品/耳机 'AirPods Pro'": "https://trello.com/c/JMyVLfep"
+    "#产品/耳机 'AirPods Pro'": "https://trello.com/c/JMyVLfep",
+    "#ADE(Flutter) 'DevEnv(Windows)'": "https://trello.com/c/zOYyLXIH",
+    "#生活/用 '净饮水机(沁园JLD5398XZ)'": "https://trello.com/c/3Fc3JSP1",
+    "#ADE(Flutter)/AF 'Sample'": "https://trello.com/c/YYawX6qd",
 }

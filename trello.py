@@ -174,4 +174,7 @@ trello_dict = {
     "#ADE(Flutter) 'DevEnv(Windows)'": "https://trello.com/c/zOYyLXIH",
     "#生活/用 '净饮水机(沁园JLD5398XZ)'": "https://trello.com/c/3Fc3JSP1",
     "#ADE(Flutter)/AF 'Sample'": "https://trello.com/c/YYawX6qd",
+    "#社会/证件 '北京工作居住证'": "https://trello.com/c/aN8UXuGd",
+    "#产品(EUI)/App 'ReportService'": "https://trello.com/c/ag9IEl1Z",
+    "#生活/行/车(福特·蒙迪欧) '维修'": "https://trello.com/c/RixGkiSX",
 }
